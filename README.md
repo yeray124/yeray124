@@ -10,7 +10,6 @@
     - 🔒 Amante de la civerseguridad
     - 📗 Con muchas ganas de aprender
     - 🏫 Portafolio www.yeraytech.dev
-    <br>
     
   
     ### ⚙️ &nbsp;GitHub Analytics
