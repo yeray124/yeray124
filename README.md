@@ -12,7 +12,7 @@
     - 🏫 Portafolio www.yeraytech.dev
     
   
-    ### ⚙️ &nbsp;GitHub Analytics
+    ### ⚙️GitHub Analytics
     
 <p align="center">
 <a href="https://github.com/yeray124">
