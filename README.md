@@ -1,13 +1,13 @@
 <div align="center">
     <h1 align="center">Hola, soy <a href="https://yeraytech.dev">YerayDevs</a> 👋</h1>
     </div>
-    <img src="https://i.imgur.com/weNbhGZ.png">
+    <img src="[https://i.imgur.com/weNbhGZ.png](https://github.com/yeray124/yeray124/blob/main/banner.png?raw=true)">
     
     ## Sobre mi
     
     - ⭐ Programador Junior ⭐ 
     - 📲 Amante de la programacion movil 🥴
-    - 🔒 Amante de la civerseguridad
+    - 🔒 Amante de la ciberseguridad
     - 📗 Con muchas ganas de aprender
     - 🏫 Portafolio www.yeraytech.dev
     
